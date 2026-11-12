@@ -1,18 +1,18 @@
 # Evah Oboh
 
-### Full-Stack Web & Mobile App Developer | SparkWeb Tech Limited
+### Full-Stack Web & Flutter Mobile App Developer | SparkWeb Tech Limited
 Based in Benin City, Edo State, Nigeria  
 Available for contract, freelance & full-time opportunities
 
 ---
 
 ### About Me
-I design and engineer performant web applications, cross-platform mobile apps, and high-converting digital experiences. With 4+ years of commercial development experience, I specialize in robust backends, responsive user interfaces, and seamless payment gateway integrations across Nigeria and worldwide.
+I design and engineer performant web applications, cross-platform Flutter mobile apps, and high-converting digital experiences. With 4+ years of commercial development experience, I specialize in robust backends, responsive user interfaces, and seamless payment gateway integrations across Nigeria and worldwide.
 
-- Currently building scalable web portals and mobile solutions at SparkWeb Tech Limited.
-- Developing cross-platform mobile apps with responsive UX and REST API synchronization.
+- Currently building scalable web portals and Flutter mobile solutions at SparkWeb Tech Limited.
+- Developing cross-platform mobile applications for iOS & Android with Flutter and Dart.
 - Integrating secure online payment checkout systems (Paystack, Flutterwave).
-- Core technologies: PHP, MySQL, Mobile Apps, WordPress, JavaScript, and Payment Gateways.
+- Core technologies: Flutter, Dart, PHP, MySQL, WordPress, JavaScript, and Payment Gateways.
 
 ---
 
@@ -22,6 +22,10 @@ I design and engineer performant web applications, cross-platform mobile apps, a
   Repository: [obohevah/portfolio](https://github.com/obohevah/portfolio)  
   Live Website: [webmast.name.ng/portfolio2](https://webmast.name.ng/portfolio2)
 
+- **Shipex - Logistics & Cargo Transport Platform**  
+  Complete freight shipping web application with instant shipping quote calculator, waybill tracking, and customer dispatch coordination.  
+  Repository: [obohevah/shipex](https://github.com/obohevah/shipex)
+
 - **BullinBear Gaming Interface**  
   Frontend implementation of the BullInBear gaming interface.  
   Repository: [obohevah/bullinbear-frontend](https://github.com/obohevah/bullinbear-frontend)
@@ -29,7 +33,8 @@ I design and engineer performant web applications, cross-platform mobile apps, a
 ---
 
 ### Tech Stack & Skills
-- Web & Mobile Development: PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap, Cross-Platform Mobile Apps
+- Mobile Development: Flutter, Dart, Android, iOS, State Management, REST APIs
+- Web Development: PHP, MySQL, JavaScript, HTML5, CSS3, Bootstrap
 - CMS & Platforms: WordPress, WooCommerce, cPanel, Apache
 - Payment Gateways: Paystack, Flutterwave, Card / USSD / Bank Transfer Checkout
 - Tools & Workflow: Git, GitHub, REST APIs, JSON, AJAX
